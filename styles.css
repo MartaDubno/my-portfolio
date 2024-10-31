@@ -53,7 +53,7 @@ main {
 #welcome-section {
   color: var(--color-4);
   text-align: center;
-  height: 100%;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
